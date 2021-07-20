@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 first file
+=======
+This is the first file. For the first branch.
+
+>>>>>>> 3b2c5470f3cc61b35b2fe2bdf0833d3d83333e0d

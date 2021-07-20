@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 two 
+=======
+this is the second file for branchig.
+>>>>>>> 3b2c5470f3cc61b35b2fe2bdf0833d3d83333e0d
